@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F1F2F1,100:D1FFED&height=100&section=header&text=&fontSize=0" width="100%"/>
-
 # 👋 Hi, I'm Jiyun
 
 💻 **Rust & Python Developer**  
@@ -38,6 +36,7 @@
 
 ---
 
-> _"Automating the boring stuff, one line of Rust at a time."_ 😏
+<br>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F1F2F1,100:D1FFED&height=100&section=footer&text=&fontSize=0" width="100%"/>
+> _"Automating the boring stuff, one line of Rust at a time."_ 😏
